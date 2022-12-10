@@ -1,0 +1,55 @@
+.firstColumn {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.secondColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.thirdColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.fourthColumn {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.fifthColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.firstRow {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.sixColumn {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.secondRow {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+hr {
+    position: relative;
+    top: none;
+    height: 0.01vw;
+    background: black;
+    margin-bottom: 1vw;
+}
